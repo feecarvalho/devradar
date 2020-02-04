@@ -2,7 +2,9 @@
 
 Projeto resultado da semana Omnistack 10
 
-Techs: 
+Tecnologias utilizadas: 
+- React
+- React Native
 - Express
 - Nodemon (Dev)
 - MongoDB / mongoose
