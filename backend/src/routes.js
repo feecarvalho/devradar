@@ -1,10 +1,7 @@
 const { Router } = require('express');
-const axios = require('axios');
 
 const DevController = require('./controllers/DevController');
 const SearchController = require('./controllers/SearchController');
-
-const Dev = require('./models/Dev');
 
 const routes = Router();
 
